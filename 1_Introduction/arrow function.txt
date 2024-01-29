@@ -1,0 +1,54 @@
+Normal js function
+_____________________
+
+
+Function myFunction(params)
+{
+console.log("Hello world");
+}
+
+
+
+myFunction();  -----------function call
+
+
+
+
+Callback function
+_________________
+
+function greeting(name) {
+  alert(`Hello, ${name}`);
+}
+
+function processUserInput(callback) {
+  const name = prompt("Please enter your name.");
+  callback(name);
+}
+
+processUserInput(greeting);
+
+
+Anonymous function
+__________________
+
+  var greet = function () {
+        console.log("Hello world");
+    };
+      
+    greet();
+
+Arrow function
+______________
+
+var greet = () => {
+  console.log("Hello world");
+}
+
+greet();
+
+
+
+  
+
+

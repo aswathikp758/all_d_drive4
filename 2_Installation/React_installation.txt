@@ -1,0 +1,8 @@
+1. Install NODEJS 
+2. Open www.reactjs.org --> DOCS -->Create a New React App
+3. Open Command Prompt
+4. Type Command [npx create-react-app ProjectName]
+5. cd ProjectName
+6. npm start(for RUN)
+7. code . (open in VSCODE)
+ 

@@ -1,0 +1,11 @@
+node_modules: Include node packages directory,These are support for reactjs application development
+             babel:javasript preposser
+src-->package.json:react & react-dom is two main dependencies
+                   note:: There are too many dependencies. But we don't need that. So the react will be hide                             it.But in that two dependencies are important,ie,Webpack & Webpack-dev-server
+webpack::main application of development enivornment
+
+Webpack-dev-server::This is transpiling(JSX language of react convert into javasctipt code using like babel packages) the webpack and convert to simple code.And this code running through the web browsers.
+
+
+src-->index.js  :Starting page
+   -->app.js  : see the code using HTML.This Language is JSX(HTML/XML + JS).This language not understandable in javascript.

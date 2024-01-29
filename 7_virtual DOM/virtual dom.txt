@@ -1,0 +1,5 @@
+DOM stands for Document Object Model.
+It is a programming interface that allow us to create,change or remove elements from the document.
+
+<head>,<body><h1>...<h6>,etc are the elements of HTML language.DOM is using for create,change or remove new elements in javascript.
+DOM also using in CSS Language.
